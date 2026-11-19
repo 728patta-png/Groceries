@@ -3,7 +3,6 @@ let applePrice = 0.75;
 let breadPrice = 3.50;
 let eggsPrice = 4.00;
 let milkPrice = 3.00;
-
 let cartTotal = 0;
 
 
